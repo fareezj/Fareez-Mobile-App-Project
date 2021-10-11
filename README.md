@@ -14,7 +14,7 @@ My personal mobile app projects. (Native Android &amp; Hybrid)
 ## React Native
 - Language used: Javascript & Typescript
 
-### 1) [OPENNY!](https://github.com/fareezj/Openny-React-Native)
+### 1) [OPENNY](https://github.com/fareezj/Openny-React-Native)
 
 <p align="center">
   <img src="https://github.com/fareezj/Openny-React-Native/blob/master/assets/screenshots/ss1.png" width="350" height="600" title="hover text">
@@ -34,10 +34,26 @@ Main Functionalities:
 Technologies used:
   - Mobx-state-tree: State management and offline storage
 
+### 1) [WEATHER APP](https://github.com/fareezj/Weather-App-React-Native)
 
-3) Weather App
-4) Yelp App
-5) Open Trivia App
+<p align="center">
+  <img src="https://github.com/fareezj/Weather-App-React-Native/blob/master/app/assets/ss3.png" width="350" height="600" title="hover text">
+  <img src="https://github.com/fareezj/Weather-App-React-Native/blob/master/app/assets/ss4.png" width="350" height="600" title="hover text">
+</p>
+
+An app to let user get updated with current live weather details wherever they are. This app consume the weather data from: https://openweathermap.org/, which an open-public weather API. Architecture-wise, this react native app do apply some of react common practises like custom hooks to manage the weather API calls in a more organized ways and cleaner method. Plus, react-redux also being used for managing the current state of weather data when searching for weather info at particular place. Development-wise, it does help in promote a maintainable codebase.
+
+Main Functionalities:
+  - Fetch weather info from API
+  - Search weather info for a particular place around the world
+
+Technologies used:
+  - Axios: HTTP request helper library
+  - Redux: State manaqement
+
+
+5) Yelp App
+6) Open Trivia App
 
 
 ## Native Android 
