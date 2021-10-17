@@ -5,10 +5,24 @@ My personal mobile app projects. (Native Android &amp; Hybrid)
 - Language used: Dart
 
 - Project List:
-1) Astory (News App)
-2) Plater (Recipe App)
-3) Book Scout (Personal Book App)
-4) Cinex (Movie App)
+1) Book Scout (Personal Book App)
+3) Astory (News App)
+
+<p align="center">
+  <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/astory.png" width="600" height="600" title="hover text">
+</p>
+
+5) Plater (Recipe App)
+
+<p align="center">
+  <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/platter.png" width="600" height="600" title="hover text">
+</p>
+
+7) Cinex (Movie App)
+
+<p align="center">
+  <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/cinex.png" width="600" height="600" title="hover text">
+</p>
 
 
 ## React Native
