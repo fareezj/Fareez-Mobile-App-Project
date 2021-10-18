@@ -7,6 +7,29 @@ My personal mobile app projects. (Native Android &amp; Hybrid)
 - Project List:
 1) Book Scout (Personal Book App)
 
+<p align="center">
+  <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/6.png" width="450" height="600" title="hover text">
+  <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/7.png" width="450" height="600" title="hover text">
+</p>
+
+Book Scout is a personal book management app that focuses on finding a precise and rational books that user interested in. The app would display a range of popular books based on user search input and also an info details for a particular book. Additionally, Book Scout also allow the user to save a bookmark for the book and also to add to their personal reading list. 
+
+Main Functionalities:
+- Search for popular books based on user search input
+- View book details
+- Save a bookmark for a particular book
+- Add book to their own personal reading list
+- Add their own review for the book
+
+
+Future Enhancement:
+- Add side notes on their reading list book
+- Share books on their social media
+- Expand the scope of the app to be used on other platform (Watch OS)
+- Add path for user to buy the book
+
+Technology Used:
+- Flutter Sqflite (Local storage / database)
 
 3) [ASTORY](https://github.com/fareezj/Astory)
 
