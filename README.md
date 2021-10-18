@@ -6,7 +6,9 @@ My personal mobile app projects. (Native Android &amp; Hybrid)
 
 - Project List:
 1) Book Scout (Personal Book App)
-3) Astory (News App)
+
+
+3) [ASTORY](https://github.com/fareezj/Astory)
 
 <p align="center">
   <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/astory.png" width="600" height="600" title="hover text">
@@ -24,18 +26,41 @@ Nevertheless, there are many room for improvement for Astory to be a better news
 - Filter the favourite news subject on dashboard screen
 - Filter news article based on news publisher
 
-5) Plater (Recipe App)
+5) [PLATER](https://github.com/fareezj/plater_flutter)
 
 <p align="center">
   <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/platter.png" width="600" height="600" title="hover text">
 </p>
 
-7) Cinex (Movie App)
+Plater is a simple recipe app, conveying a list of meal recipe when searched by the user. The app focuses on improving UI/UX using flutter as the infinite scroll feature is used for the recipe list. In addition, each recipe also comes with a detailed recipe info, providing a list of ingredients and nutrients facts of the meal. Plater is made with the use of public API: https://developer.edamam.com/
+
+Main Functionalities:
+- Search for list of recipes
+- View recipe details
+
+Future Enhancement:
+- Save favourite recipe
+- Add some side notes for the recipe
+- Share the recipe on social media
+
+7) [CINEX](https://github.com/fareezj/Cinex)
 
 <p align="center">
   <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/cinex.png" width="600" height="600" title="hover text">
 </p>
 
+Cinex is a movie app that shows a variety type of movie genre in a fluttter app. Each movie genre comes with a popular and updated movie list that user might interested in. Plus, each movie comes with a compact info details on the movie rating, category, description and even the casts on the movie. What makes it interesting is, a popularity star counter also been provided for each cast of the movie, which helps the user to know more and in details about the movie in depth.
+Cinex is made with the use of public API: https://developers.themoviedb.org/3
+
+Main Functionalities:
+- View popular movie list based on movie category
+- View movie info details
+- View movie actor/actress along with the movie or drama that they cast in
+
+Future Enahancement:
+- Save favourite movie
+- Share movie on social media
+- Search for movie title
 
 ## React Native
 - Language used: Javascript & Typescript
