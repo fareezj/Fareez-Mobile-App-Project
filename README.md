@@ -12,6 +12,18 @@ My personal mobile app projects. (Native Android &amp; Hybrid)
   <img src="https://github.com/fareezj/Fareez-Mobile-App-Project/blob/main/astory.png" width="600" height="600" title="hover text">
 </p>
 
+Astory is a news app that delivers some current mainstrain news around the world. The news are categorized into several new subject which enables user to binge read all the latest news in a more effective ways. Additionally, Astory also allows user to read the news in details when clicked. This is a simple application that make use of the public API: https://newsapi.org/. 
+
+Main Functionalities:
+- View list of news article according to their subject
+- View news article details
+
+Nevertheless, there are many room for improvement for Astory to be a better news application. As for future planning, the developer would consider the following functionalities:
+
+- Bookmark favourite news article
+- Filter the favourite news subject on dashboard screen
+- Filter news article based on news publisher
+
 5) Plater (Recipe App)
 
 <p align="center">
